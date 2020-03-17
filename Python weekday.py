@@ -1,6 +1,6 @@
-#Ricky Deegan
+#Richard Deegan
 #this program lets you know if its a weekday or not.
-# need to import daytime function.
+#need to import daytime function.
 import datetime
 
 #currentday is the variable created to show present day 
