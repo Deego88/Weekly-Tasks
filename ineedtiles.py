@@ -1,3 +1,4 @@
+#Richard Deegan
 #this program calculates how many tiles you will need
 #when tiling a wall or floor
 
