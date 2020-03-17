@@ -1,0 +1,33 @@
+# IPython log file
+
+get_ipython().run_line_magic('logstart', '')
+a = 1
+b = 4
+c = -2
+import numpy as np
+import matplotlib.pyplot as plt
+l = np.arange(o.o, 10.0,0.5) 
+l = np.arange (0.0, 10.0, 0.5)
+l
+l-l
+plt.plot(l, l**2)
+x = np.arange (1.0, 10.0, 1.0)
+y1 = x**2
+y2 = 2**x
+plt.plot(x,y1)
+plt.plot(x,y2)
+np.linespace(1.0,10.0,1000.0)
+np.linespace(1.0,10.0,1000)
+x = np.linespace(1.0,10.0,1000)
+x = np.linespace(1.0,10.0,1000)
+x = np.arange(1.0,10.0,1.0)
+y1
+y2
+x = np.linespace(1.0,10.0,1000)
+x = linspace (1.0,10.0,100)
+x = nplinspace(1.0,10.0,100)
+x = np.linspace(1.0,10.0,100)
+y1
+y1 = x**2
+y2= 2**x
+plt.plot(x, y1, "g.",label="squared")
