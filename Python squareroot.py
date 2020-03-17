@@ -1,5 +1,4 @@
-#Ricky Deegan
-# info taken from https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
+#Richard Deegan
 #This program takes a positive Float as an input
 #and outputs its approx squared root
 
@@ -15,3 +14,5 @@ def sqrt (x):
 x = float(input("Please enter a positive number:")) # input for function 
 
 print("The square root of", x, "is approx.", sqrt(x))    
+
+#References https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
