@@ -24,3 +24,7 @@ plt.legend()
 plt.xlabel("x axis")
 plt.ylabel("y axis")
 plt.show()
+
+#References:
+#https://matplotlib.org/tutorials/introductory/pyplot.html
+#https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
