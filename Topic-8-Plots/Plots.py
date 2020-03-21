@@ -5,6 +5,7 @@
 #import required modules 
 import matplotlib.pyplot as plt
 import numpy as np 
+
 # set range [0,4] using arange, increments of 0.1
 x = np.arange(0,4,0.1)
 
@@ -12,11 +13,10 @@ x = np.arange(0,4,0.1)
 y1= x
 y2= x**2
 y3= x**3
+
 #plot points and title to include function 
 plt.plot(y1, label = "$f(x)=x$")
-
 plt.plot(y2, label = "$g(x)=x**2$")
-    
 plt.plot(y3, label = "$h(x)=x**3$")
     
 #legend, x and y asis and graph of plot
