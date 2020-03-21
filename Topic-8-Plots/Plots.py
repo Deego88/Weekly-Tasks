@@ -28,3 +28,4 @@ plt.show()
 #References:
 #https://matplotlib.org/tutorials/introductory/pyplot.html
 #https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
+#https://realpython.com/python-matplotlib-guide/
