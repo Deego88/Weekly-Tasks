@@ -1,10 +1,21 @@
 # Topic-6-Functions
 
-This program that takes a positive floating-point number as input and outputs an approximation of its square root. The function is called sqrt 
+Richard Deegan
 
-- create function sqrt with x and y
-- ans and y variables are created
-- a while y > 0 loop is created
-- variable ans is * of variable x
-- function printed to screen
+#This program takes a positive Float as an input
+#and outputs its approx squared root
 
+#create function called sqrt
+def sqrt (x):
+
+    r = x # approx root
+    percision = 10 ** (-10)
+    while abs (x - r * r) > percision: # reducing the difference in r with percision value
+            r = (r + x / r) / 2 # add approx root with original input / r and result / 2 
+    return r # output 
+
+x = float(input("enter float value you want rooted:")) # input for function 
+
+print(sqrt(x))
+
+#Reference https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
