@@ -12,3 +12,7 @@ if Currentday.weekday ( ) < 5:
 elif Currentday.weekday ( ) > 4:
     print("Yes its the weekend") # print values 5-6
 
+#References 
+#Python Tuples || Python Tutorial || Learn Python Programming, https://www.youtube.com/watch?v=NI26dqhs2Rk
+#Lists and Tuples in Python,https://realpython.com/python-lists-tuples/
+#Dictionaries in Python, https://realpython.com/python-dicts/
