@@ -3,7 +3,7 @@
 This program  reads in a text file and outputs the number of e's it contains. 
 The program takes the filename from an argument on the command line.
 
--create x variable as string "e"
+-create e variable as string "e"
 
 -open the text file "moby-dick.txt" in the read mode.
 
